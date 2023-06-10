@@ -1,4 +1,6 @@
 # Book-Search-Engine
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 As an avid reader, I want to search for new books to read so that I can keep a list of books to purchase.
 
 ## User Story
