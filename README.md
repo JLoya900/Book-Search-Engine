@@ -44,3 +44,30 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+## Installation
+
+- Use the follow command at your terminal, **git clone** (Create a working copy at your local repository):
+
+- After cloned the repository, create your own repository, copy the files to your repository and type in your terminal the follow commands.
+
+  ```
+  git status
+
+  git add -A
+
+  git commit -m "Message to commit."
+
+  git push or git push origin main
+  ```
+
+## Prerequisites
+
+Before of using this application, is require to install dependencies, run the following command in your terminal:
+
+```
+npm install
+```
+## Images
+
+![demo-1](https://github.com/JLoya900/Book-Search-Engine/assets/118794860/71d460f3-3c0c-4292-b4b5-d2acb01d9c1d)
+
